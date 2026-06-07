@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about coding, web development, and 
 I love collaborating and connecting with like-minded individuals. Feel free to reach out via:
 
 - [LinkedIn](https://www.linkedin.com/in/ivan-gabriel-pajon-rodriguez/)
-- [Email](mailto:ivan@codemain.pro)
+- [Email](mailto:ivangpajon@hotmail.com)
 
 ## My GitHub Repositories
 

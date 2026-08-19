@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding, web development, and 
 
 ## About Me
 
-- **Personal Blog:** I write about various topics related to software development, tech tutorials, and more. Check it out at [Codemain](https://codemain.pro).
+- **Personal Blog:** I write about various topics related to software development, tech tutorials, and more. Check it out at [Codemain](https://codemain.ivanpajon.es).
 - **Current Project:** I'm currently working on an exciting personal project focused on fitness coaching. Learn more at [Nyon](https://nyon.pro).
 
 ## Connect with Me
